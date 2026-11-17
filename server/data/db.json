@@ -1,0 +1,437 @@
+{
+  "profiles": [
+    {
+      "id": "p01",
+      "name": "Aarav Sharma",
+      "age": 23,
+      "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+      "bio": "Coffee lover, weekend explorer and amateur photographer.",
+      "location": "Delhi",
+      "interests": [
+        "Photography",
+        "Travel",
+        "Coffee"
+      ],
+      "likedCurrentUser": true
+    },
+    {
+      "id": "p02",
+      "name": "Ananya Kapoor",
+      "age": 22,
+      "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+      "bio": "Finding new cafes and collecting little memories.",
+      "location": "Gurgaon",
+      "interests": [
+        "Music",
+        "Food",
+        "Travel"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p03",
+      "name": "Rohan Mehta",
+      "age": 24,
+      "photo": "https://randomuser.me/api/portraits/men/45.jpg",
+      "bio": "Tech enthusiast who loves long drives and good conversations.",
+      "location": "Noida",
+      "interests": [
+        "Technology",
+        "Fitness",
+        "Movies"
+      ],
+      "likedCurrentUser": true
+    },
+    {
+      "id": "p04",
+      "name": "Priya Malhotra",
+      "age": 21,
+      "photo": "https://randomuser.me/api/portraits/women/68.jpg",
+      "bio": "Bookworm by day, dancer by night.",
+      "location": "Delhi",
+      "interests": [
+        "Reading",
+        "Dance",
+        "Art"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p05",
+      "name": "Kabir Verma",
+      "age": 23,
+      "photo": "https://randomuser.me/api/portraits/men/75.jpg",
+      "bio": "Always up for spontaneous plans and street food.",
+      "location": "Gurgaon",
+      "interests": [
+        "Food",
+        "Cricket",
+        "Travel"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p06",
+      "name": "Ishita Rao",
+      "age": 22,
+      "photo": "https://randomuser.me/api/portraits/women/12.jpg",
+      "bio": "Sunsets, playlists and meaningful conversations.",
+      "location": "Jaipur",
+      "interests": [
+        "Music",
+        "Photography",
+        "Books"
+      ],
+      "likedCurrentUser": true
+    },
+    {
+      "id": "p07",
+      "name": "Arjun Malhotra",
+      "age": 25,
+      "photo": "https://randomuser.me/api/portraits/men/22.jpg",
+      "bio": "Gym enthusiast and a big fan of mountain trips.",
+      "location": "Delhi",
+      "interests": [
+        "Fitness",
+        "Hiking",
+        "Movies"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p08",
+      "name": "Meera Joshi",
+      "age": 23,
+      "photo": "https://randomuser.me/api/portraits/women/25.jpg",
+      "bio": "Artist who believes every day deserves a little adventure.",
+      "location": "Noida",
+      "interests": [
+        "Painting",
+        "Travel",
+        "Music"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p09",
+      "name": "Vihaan Gupta",
+      "age": 22,
+      "photo": "https://randomuser.me/api/portraits/men/52.jpg",
+      "bio": "Football, coding and exploring new places.",
+      "location": "Delhi",
+      "interests": [
+        "Football",
+        "Coding",
+        "Gaming"
+      ],
+      "likedCurrentUser": true
+    },
+    {
+      "id": "p10",
+      "name": "Sara Khan",
+      "age": 24,
+      "photo": "https://randomuser.me/api/portraits/women/32.jpg",
+      "bio": "Foodie who loves trying recipes from around the world.",
+      "location": "Gurgaon",
+      "interests": [
+        "Cooking",
+        "Food",
+        "Travel"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p11",
+      "name": "Aditya Singh",
+      "age": 23,
+      "photo": "https://randomuser.me/api/portraits/men/61.jpg",
+      "bio": "Music addict and weekend cyclist.",
+      "location": "Faridabad",
+      "interests": [
+        "Cycling",
+        "Music",
+        "Fitness"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p12",
+      "name": "Diya Bansal",
+      "age": 21,
+      "photo": "https://randomuser.me/api/portraits/women/49.jpg",
+      "bio": "A little bit of introvert, a lot of dreamer.",
+      "location": "Delhi",
+      "interests": [
+        "Books",
+        "Movies",
+        "Art"
+      ],
+      "likedCurrentUser": true
+    },
+    {
+      "id": "p13",
+      "name": "Reyansh Arora",
+      "age": 24,
+      "photo": "https://randomuser.me/api/portraits/men/14.jpg",
+      "bio": "Startup stories, coffee and late-night conversations.",
+      "location": "Noida",
+      "interests": [
+        "Startups",
+        "Technology",
+        "Coffee"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p14",
+      "name": "Kiara Sethi",
+      "age": 22,
+      "photo": "https://randomuser.me/api/portraits/women/56.jpg",
+      "bio": "Dancing through life and finding beauty in little things.",
+      "location": "Gurgaon",
+      "interests": [
+        "Dance",
+        "Fashion",
+        "Music"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p15",
+      "name": "Dev Khanna",
+      "age": 25,
+      "photo": "https://randomuser.me/api/portraits/men/18.jpg",
+      "bio": "Adventure seeker and occasional chef.",
+      "location": "Delhi",
+      "interests": [
+        "Cooking",
+        "Hiking",
+        "Travel"
+      ],
+      "likedCurrentUser": true
+    },
+    {
+      "id": "p16",
+      "name": "Aanya Mishra",
+      "age": 23,
+      "photo": "https://randomuser.me/api/portraits/women/18.jpg",
+      "bio": "Nature lover who never says no to a road trip.",
+      "location": "Chandigarh",
+      "interests": [
+        "Nature",
+        "Travel",
+        "Photography"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p17",
+      "name": "Kunal Sood",
+      "age": 22,
+      "photo": "https://randomuser.me/api/portraits/men/29.jpg",
+      "bio": "Basketball player and movie enthusiast.",
+      "location": "Delhi",
+      "interests": [
+        "Basketball",
+        "Movies",
+        "Gaming"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p18",
+      "name": "Myra Chawla",
+      "age": 24,
+      "photo": "https://randomuser.me/api/portraits/women/22.jpg",
+      "bio": "Building my own little world through design.",
+      "location": "Noida",
+      "interests": [
+        "Design",
+        "Art",
+        "Fashion"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p19",
+      "name": "Siddharth Jain",
+      "age": 23,
+      "photo": "https://randomuser.me/api/portraits/men/39.jpg",
+      "bio": "Chess lover, reader and curious mind.",
+      "location": "Jaipur",
+      "interests": [
+        "Chess",
+        "Reading",
+        "Technology"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p20",
+      "name": "Tara Khurana",
+      "age": 22,
+      "photo": "https://randomuser.me/api/portraits/women/35.jpg",
+      "bio": "Exploring the world one cafe at a time.",
+      "location": "Delhi",
+      "interests": [
+        "Coffee",
+        "Travel",
+        "Food"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p21",
+      "name": "Manav Kapoor",
+      "age": 24,
+      "photo": "https://randomuser.me/api/portraits/men/41.jpg",
+      "bio": "Football on weekends and music every day.",
+      "location": "Gurgaon",
+      "interests": [
+        "Football",
+        "Music",
+        "Travel"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p22",
+      "name": "Riya Anand",
+      "age": 21,
+      "photo": "https://randomuser.me/api/portraits/women/41.jpg",
+      "bio": "Collecting books and unforgettable experiences.",
+      "location": "Delhi",
+      "interests": [
+        "Books",
+        "Writing",
+        "Art"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p23",
+      "name": "Yash Oberoi",
+      "age": 25,
+      "photo": "https://randomuser.me/api/portraits/men/48.jpg",
+      "bio": "Fitness, photography and a good cup of chai.",
+      "location": "Noida",
+      "interests": [
+        "Fitness",
+        "Photography",
+        "Food"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p24",
+      "name": "Sana Mirza",
+      "age": 23,
+      "photo": "https://randomuser.me/api/portraits/women/61.jpg",
+      "bio": "Love live music and discovering hidden places.",
+      "location": "Gurgaon",
+      "interests": [
+        "Music",
+        "Travel",
+        "Dance"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p25",
+      "name": "Dhruv Nanda",
+      "age": 22,
+      "photo": "https://randomuser.me/api/portraits/men/64.jpg",
+      "bio": "Tech student with a passion for photography.",
+      "location": "Delhi",
+      "interests": [
+        "Coding",
+        "Photography",
+        "Movies"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p26",
+      "name": "Naina Gulati",
+      "age": 24,
+      "photo": "https://randomuser.me/api/portraits/women/72.jpg",
+      "bio": "Food, friends and spontaneous road trips.",
+      "location": "Faridabad",
+      "interests": [
+        "Food",
+        "Travel",
+        "Cooking"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p27",
+      "name": "Abeer Khanna",
+      "age": 23,
+      "photo": "https://randomuser.me/api/portraits/men/70.jpg",
+      "bio": "Music producer in progress and night owl.",
+      "location": "Delhi",
+      "interests": [
+        "Music",
+        "Gaming",
+        "Technology"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p28",
+      "name": "Simran Kaur",
+      "age": 22,
+      "photo": "https://randomuser.me/api/portraits/women/76.jpg",
+      "bio": "Love painting, nature and peaceful mornings.",
+      "location": "Chandigarh",
+      "interests": [
+        "Painting",
+        "Nature",
+        "Reading"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p29",
+      "name": "Rudra Bhatia",
+      "age": 24,
+      "photo": "https://randomuser.me/api/portraits/men/77.jpg",
+      "bio": "Cricket lover and always up for new adventures.",
+      "location": "Gurgaon",
+      "interests": [
+        "Cricket",
+        "Travel",
+        "Fitness"
+      ],
+      "likedCurrentUser": false
+    },
+    {
+      "id": "p30",
+      "name": "Avni Saxena",
+      "age": 23,
+      "photo": "https://randomuser.me/api/portraits/women/79.jpg",
+      "bio": "Designer, dreamer and lover of good stories.",
+      "location": "Noida",
+      "interests": [
+        "Design",
+        "Books",
+        "Photography"
+      ],
+      "likedCurrentUser": false
+    }
+  ],
+  "swipes": [
+    {
+      "profileId": "p01",
+      "action": "pass",
+      "createdAt": "2026-11-17T15:04:50.258Z"
+    },
+    {
+      "profileId": "p02",
+      "action": "like",
+      "createdAt": "2026-11-17T15:04:52.005Z"
+    }
+  ],
+  "matches": []
+}
