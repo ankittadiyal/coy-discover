@@ -423,15 +423,38 @@
   ],
   "swipes": [
     {
-      "profileId": "p01",
-      "action": "pass",
-      "createdAt": "2026-11-17T15:04:50.258Z"
+      "profileId": "p03",
+      "action": "like",
+      "createdAt": "2026-11-18T07:53:51.052Z"
     },
     {
-      "profileId": "p02",
+      "profileId": "p04",
       "action": "like",
-      "createdAt": "2026-11-17T15:04:52.005Z"
+      "createdAt": "2026-11-18T07:54:04.514Z"
+    },
+    {
+      "profileId": "p05",
+      "action": "pass",
+      "createdAt": "2026-11-18T07:54:06.093Z"
+    },
+    {
+      "profileId": "p06",
+      "action": "like",
+      "createdAt": "2026-11-18T07:54:08.265Z"
     }
   ],
-  "matches": []
+  "matches": [
+    {
+      "profileId": "p09",
+      "matchedAt": "2026-11-18T07:43:46.744Z"
+    },
+    {
+      "profileId": "p03",
+      "matchedAt": "2026-11-18T07:53:51.052Z"
+    },
+    {
+      "profileId": "p06",
+      "matchedAt": "2026-11-18T07:54:08.266Z"
+    }
+  ]
 }
